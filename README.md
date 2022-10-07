@@ -8,7 +8,7 @@ I learned this from Javidx9. You can check out his channel on Youtube.
 - FAST DOWN - Down Arrow Key
 - FORCE DOWN - Spacebar Key
 
-### Change Your Windows Console Proper
+### Change Your Windows Console Properties
 (Right click > Properties)
 - Font: Raster Fonts
 - Size: 12x16
